@@ -1,8 +1,8 @@
-# Project 1 - FlicksApp | Noel Emmanuel Roodly
+# Project 1 - FlicksApp | Cadeau Marckenzy
 
 FlicksApp shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: 22 hours spent in total
+Time spent: 18 hours spent in total
 
 ## User Stories
 
@@ -37,13 +37,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:<br/>
-<img src='https://github.com/emrood/Flicks/blob/master/FliksApp1.gif' /><br/>
-<img src='https://github.com/emrood/Flicks/blob/master/FlicksApp2.gif' /><br/>
-<img src='https://github.com/emrood/Flicks/blob/master/FlicksApp3.gif' />
+<img src='' /><br/>
+<img src='' /><br/>
+<img src=' />
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Az Screen Recorder.
 
 ## Notes
 
@@ -56,7 +55,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2017 - Noel Emmnanuel Roodly
+    Copyright 2017 - Cadeau Marckenzy
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
